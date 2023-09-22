@@ -1,13 +1,14 @@
 /* Загальні стилі */
 body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/020/735/852/original/basketball-cartoon-free-space-for-text-wallpaper-copy-space-free-vector.jpg);
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #ba621c;
+    color: #f8dfb8;
     text-align: center;
     padding: 10px 0;
 }
@@ -23,7 +24,7 @@ nav ul li {
 }
 
 nav a {
-    color: #fff;
+    color: #f8dfb8;
     text-decoration: none;
 }
 
@@ -38,12 +39,11 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background-color: #333;
-    color: #fff;
+    background-color: #ba621c;
+    color: #f8dfb8;
 }
 
-.video_index {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.video_basket {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
